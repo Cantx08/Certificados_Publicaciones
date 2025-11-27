@@ -1,0 +1,21 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+
+# Entornos y dependencias
+.venv/
+node_modules/
+__pycache__/
+*.__pycache__
+
+# Varaibles de entorno
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+
+# Bases de datos
+pgdata/
